@@ -1,0 +1,27 @@
+names:
+- aloe_vera
+- basil
+- lavender
+- mint
+- rosemary
+- turmeric
+- ginger
+- Moringa
+- bitter_tea
+- blackjack
+- Cherry_blossom
+- Flame_tree
+- Neem_Tree
+- Ugandan_greenheart
+- sausage_tree
+- lemongrass
+- pygeum
+- Goatweed
+- Garlic
+- Mango
+- wild_marigold
+nc: 21
+path: C:\Users\KAREEM ZZIWA\Documents\COMPUTER VISION\yolo_data
+test: test/images
+train: train/images
+val: val/images
